@@ -1,0 +1,13 @@
+name: pizza-emoji-coin
+version: 0.0.1
+
+authors:
+  - Dave <dave.schwantes@gmail.com>
+
+crystal: 0.23.1
+
+license: MIT
+
+dependencies:
+  cox:
+    github: dorkrawk/cox
