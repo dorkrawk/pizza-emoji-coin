@@ -2,6 +2,8 @@
 
 Sure let's make another cryptocurrency! With pizza! And emojis!
 
+** NOTE: THIS IS COMPLETELY A WORK IN PROGRESS RIGHT NOW! **
+
 ## What Is 🍕coin?
 
 🍕coin is a simple, complete cryptocurrency including:
